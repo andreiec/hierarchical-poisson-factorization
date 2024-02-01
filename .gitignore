@@ -8,8 +8,7 @@ __pycache__/
 
 # Custom
 data/
-/grid_search.ipynb
-/grid_search.csv
+/grid_search.*
 *.pkl
 
 # Distribution / packaging
